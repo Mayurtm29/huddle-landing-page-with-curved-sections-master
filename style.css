@@ -420,7 +420,6 @@ input[type="email"] {
     .bg-one {
         background-image: url("images/bg-section-top-desktop-2.svg");
         background-repeat: no-repeat;
-        padding-bottom: 7rem;
     }
 
     .bg-bottom {
@@ -462,7 +461,6 @@ input[type="email"] {
         background-repeat: no-repeat;
         background-size: 100%;
         padding: 5rem 0;
-        padding-bottom: 7rem;
     }
 
     .footer {
